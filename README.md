@@ -4,12 +4,10 @@
 >
 
 
-:::info
 - [ ] 1. [International Monetary Fund ( IMF )](http://data.imf.org/?sk=4C514D48-B6BA-49ED-8AB9-52B0C1A0179B&sId=1390030341854)
 - [ ] 2. [World Gold Council ( WGC )](https://www.gold.org/goldhub/data/gold-supply-and-demand-statistics)
 - [ ] 3. [Chicago Board Options Exchange ( CBOE )](http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-historical-data)
 
-:::
 
 
 IMF
